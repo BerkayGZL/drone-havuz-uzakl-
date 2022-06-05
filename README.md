@@ -4,6 +4,8 @@ Bunu yaparken de drone yüksekliği 0-30 cm arasında 1.ledi yakmak(araç havuza
 Drone yükseklik mesafesi gösterge panelinde ledler yakılırken de gösterilmiştir.
 Bu projenin yapılmasının amacı itfaye merdivenlerinin ulaşamadığı yüksek noktalara ve itfaye araçlarının ulaşamadığı engebeli arazilere insan hayatını tehlikeye atmadan uzaktan en hızlı ve güvenilir bir şekilde müdahale etmektir.
 
+Ekeran resimlerini açtığınızda resmi alttan sağa doğru kaydırınız.
+
 // BERKAY GÜZEL 171519008  Arduino kodu
 
 const int trigger_pin = 8;
